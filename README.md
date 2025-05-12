@@ -39,8 +39,5 @@
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=he-larious&theme=tokyonight)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=he-larious&theme=tokyonight)
 
-## ☕ Fun Facts
-- 😱 I’ve rewatched the entire *Scream* franchise more times than I’ve debugged a for-loop
-- 🎬 I make emotionally devastating fan edits when I should be debugging  
-
-📬 [LinkedIn](https://linkedin.com/in/helena-he)
+## 📬 Socials
+[LinkedIn](https://linkedin.com/in/helena-he)
